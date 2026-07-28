@@ -80,4 +80,4 @@ this decision logic, and validating the control logic via hardware-in-the-loop
 ## Author
 
 Md. Shahinur Rahman Chowdhury
-[research.shahinur.dev](https://research.shahinur.dev)
+[research.shahinur.dev](https://mahmudul-ai.github.io/)
